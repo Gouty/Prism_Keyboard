@@ -1,0 +1,92 @@
+** Drc report for /Users/swilson/dev/mechkeys/lfk_revd/lfk_revd.kicad_pcb **
+** Created on 2016-12-24 17:51:31 **
+
+** Found 28 DRC errors **
+ErrType(19): Pad near pad
+    @ (80.645 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_74
+    @ (83.344 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_73
+ErrType(19): Pad near pad
+    @ (83.026 mm,66.675 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_40
+    @ (83.344 mm,66.675 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_40
+ErrType(19): Pad near pad
+    @ (83.344 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_73
+    @ (85.725 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_74
+ErrType(19): Pad near pad
+    @ (85.725 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_74
+    @ (86.749 mm,108.045 mm): Pad SW1 on F.Cu, B.Cu, Internal, Non-copper of SW_73
+ErrType(19): Pad near pad
+    @ (86.749 mm,69.945 mm): Pad SW1 on F.Cu, B.Cu, Internal, Non-copper of SW_40
+    @ (88.106 mm,66.675 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_40
+ErrType(19): Pad near pad
+    @ (87.789 mm,85.725 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_56
+    @ (88.424 mm,85.725 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_57
+ErrType(19): Pad near pad
+    @ (88.106 mm,66.675 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_40
+    @ (88.424 mm,66.675 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_40
+ErrType(19): Pad near pad
+    @ (97.949 mm,85.725 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_56
+    @ (99.695 mm,85.725 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_58
+ErrType(19): Pad near pad
+    @ (106.839 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_76
+    @ (107.156 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_75
+ErrType(19): Pad near pad
+    @ (110.561 mm,108.045 mm): Pad SW1 on F.Cu, B.Cu, Internal, Non-copper of SW_75
+    @ (111.919 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_76
+ErrType(19): Pad near pad
+    @ (111.919 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_76
+    @ (112.236 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_75
+ErrType(19): Pad near pad
+    @ (130.969 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_77
+    @ (133.032 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_78
+ErrType(19): Pad near pad
+    @ (136.049 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_77
+    @ (138.113 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_78
+ErrType(19): Pad near pad
+    @ (207.486 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_79
+    @ (209.232 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_80
+ErrType(19): Pad near pad
+    @ (290.512 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_83
+    @ (292.576 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_84
+ErrType(19): Pad near pad
+    @ (295.592 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_83
+    @ (297.656 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_84
+ErrType(19): Pad near pad
+    @ (316.389 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_88
+    @ (319.087 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_87
+ErrType(19): Pad near pad
+    @ (318.949 mm,90.515 mm): Pad SW2 on F.Cu, B.Cu, Internal, Non-copper of SW_RHS_1
+    @ (319.056 mm,93.980 mm): Pad HOLE on F.Cu, B.Cu, Internal of STA
+ErrType(19): Pad near pad
+    @ (319.056 mm,78.740 mm): Pad HOLE on F.Cu, B.Cu, Internal of STA
+    @ (320.199 mm,80.645 mm): Pad A on F.Cu, B.Cu, Internal, Non-copper of SW_RHS_1
+ErrType(19): Pad near pad
+    @ (319.087 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_87
+    @ (321.469 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_88
+ErrType(19): Pad near pad
+    @ (321.469 mm,104.775 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_88
+    @ (322.493 mm,108.045 mm): Pad SW1 on F.Cu, B.Cu, Internal, Non-copper of SW_87
+ErrType(19): Pad near pad
+    @ (325.914 mm,85.725 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_69
+    @ (326.549 mm,85.725 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_RHS_1
+ErrType(19): Pad near pad
+    @ (328.930 mm,66.675 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_53
+    @ (330.676 mm,66.675 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_52
+ErrType(19): Pad near pad
+    @ (333.058 mm,28.575 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_16
+    @ (333.692 mm,28.575 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_BS_1
+ErrType(19): Pad near pad
+    @ (342.582 mm,28.575 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_BS_2
+    @ (343.217 mm,28.575 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_16
+ErrType(19): Pad near pad
+    @ (345.281 mm,52.070 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_35
+    @ (346.305 mm,50.895 mm): Pad SW1 on F.Cu, B.Cu, Internal, Non-copper of SW_34
+ErrType(19): Pad near pad
+    @ (347.663 mm,28.575 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_BS_2
+    @ (348.975 mm,25.550 mm): Pad 6 on B.Cu, Non-copper of P1
+ErrType(4): Track near pad
+    @ (352.247 mm,28.143 mm): Track 0.203 mm, net [] (0) on layer F.Cu, length: 0.001 mm
+    @ (352.743 mm,28.575 mm): Pad on F.Cu, B.Cu, Internal, Non-copper of SW_BS_2
+
+** Found 0 unconnected pads **
+
+** End of Report **
