@@ -32,6 +32,6 @@ Prototype complete - Displaying at Mechanical Keyboard Meetup (Leeds 26/10/2019)
 
 ## Posts about Prism
 
-*[Initial](https://www.reddit.com/r/CustomKeyboards/comments/c7dlp8/ogsummer_zx_spectrum_inspired_work_in_progress/)
-*[Update](https://www.reddit.com/r/CustomKeyboards/comments/cu45r6/ogsummer_prism_zx_spectrum_inspired_update/)
-*[Keebtalk](https://www.keebtalk.com/t/prism-a-zx-spectrum-inspired-low-cost-acrylic-case/)
+* [Initial](https://www.reddit.com/r/CustomKeyboards/comments/c7dlp8/ogsummer_zx_spectrum_inspired_work_in_progress/)
+* [Update](https://www.reddit.com/r/CustomKeyboards/comments/cu45r6/ogsummer_prism_zx_spectrum_inspired_update/)
+* [Keebtalk](https://www.keebtalk.com/t/prism-a-zx-spectrum-inspired-low-cost-acrylic-case/)
