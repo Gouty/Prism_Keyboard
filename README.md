@@ -15,9 +15,8 @@ As it was planned for the OG Summer competition I decided to emulate some of the
 
 ## Initial Design document
 
-![Design Doc](images/design_doc.png)
+<img src="images/design_doc.png" alt="Design Doc" width="400"/> <img src="images/animation.gif" alt="explode" width="400"/>
 
-![Animation](https://i.imgur.com/m1MDMGr.gifv)
 
 ## Plans
 
