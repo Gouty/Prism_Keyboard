@@ -24,14 +24,17 @@ Currently this repo is a bit of a dumping ground for what I have designed so far
 
 * Multiple plate layer configurations
 * Multiple top layer configuations
-* Changes to the PCB to include PCB mount stabilisers
+* Changes to the PCB to include PCB mount stabilisers and better bottom row support
 
 ## Current status
 
-Prototype complete - Displaying at Mechanical Keyboard Meetup (Leeds 26/10/2019)
+Prototype complete - Displayed at Mechanical Keyboard Meetup (Leeds 26/10/2019)
+
+<img src="images/photos/dRkN5Dj.jpg" alt="MKUK Leeds">
 
 ## Posts about Prism
 
 * [Initial](https://www.reddit.com/r/CustomKeyboards/comments/c7dlp8/ogsummer_zx_spectrum_inspired_work_in_progress/)
 * [Update](https://www.reddit.com/r/CustomKeyboards/comments/cu45r6/ogsummer_prism_zx_spectrum_inspired_update/)
 * [Keebtalk](https://www.keebtalk.com/t/prism-a-zx-spectrum-inspired-low-cost-acrylic-case/)
+* [Prototype](https://www.reddit.com/r/MechanicalKeyboards/comments/dqqovr/rbgy/), [2](https://www.reddit.com/r/CustomKeyboards/comments/dqr5ce/prism_prototype/)
