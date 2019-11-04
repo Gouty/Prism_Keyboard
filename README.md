@@ -18,7 +18,12 @@ As it was planned for the OG Summer competition I decided to emulate some of the
 <img src="images/design_doc.png" alt="Design Doc" width="400"/> <img src="images/animation.gif" alt="explode" width="400"/>
 
 
-## Plans
+## To Do
+
+* Improve feet fastening/height adjustment
+* Update .dxf to include latest revision
+
+## Future Plans
 
 Currently this repo is a bit of a dumping ground for what I have designed so far, though it is possible to recreate the keyboard entirely. Eventually I want it to include:
 
