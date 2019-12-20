@@ -1,4 +1,4 @@
-![Prism Pixel Art](images/pixel_prism.png)# Prism Mechanical Keyboard
+# ![Prism Pixel Art](images/pixel_prism.png) Prism Mechanical Keyboard
 
 ![Render](images/render_main.png)
 
