@@ -47,4 +47,5 @@ Prototype complete - Displayed at Mechanical Keyboard Meetup (Leeds 26/10/2019)
 ## Thanks
 
 Original TGW71 PCB by [u/ca178858](https://www.reddit.com/user/ca178858)and [u/the_pokemon_kid](https://www.reddit.com/user/the_pokemon_kid)
+
 Pixel art by Meowsaur
