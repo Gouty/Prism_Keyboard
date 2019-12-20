@@ -43,3 +43,8 @@ Prototype complete - Displayed at Mechanical Keyboard Meetup (Leeds 26/10/2019)
 * [Update](https://www.reddit.com/r/CustomKeyboards/comments/cu45r6/ogsummer_prism_zx_spectrum_inspired_update/)
 * [Keebtalk](https://www.keebtalk.com/t/prism-a-zx-spectrum-inspired-low-cost-acrylic-case/)
 * [Prototype](https://www.reddit.com/r/MechanicalKeyboards/comments/dqqovr/rbgy/), [2](https://www.reddit.com/r/CustomKeyboards/comments/dqr5ce/prism_prototype/)
+
+## Thanks
+
+Original TGW71 PCB by [u/ca178858](https://www.reddit.com/user/ca178858)and [u/the_pokemon_kid](https://www.reddit.com/user/the_pokemon_kid)
+Pixel art by Meowsaur
